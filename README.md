@@ -6,6 +6,8 @@ We were instructed to cover a wide range of topics in AI, encompassing approxima
 
 ## Projects
 
+*Note that when viewing the notebooks on GitHub, that the links which navigate inside notebooks (Table of Contents + others) do not work.*
+
 ### Machine Learning
 
 - [Predicting Life Expectancy using Linear Regression](./ml/life_expectancy-linear_regression.ipynb) - A linear regression model to predict life expectancy based on a dataset from the World Health Organization.
