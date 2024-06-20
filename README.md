@@ -2,7 +2,7 @@
 
 This repository contains a series of Jupyter notebooks that demonstrate various applied AI concepts. The projects cover machine learning, deep learning, and building a neural network from scratch as part of my minor in applied AI.
 
-We were instructed to cover a wide range of topics in AI, encompassing approximately 50 different areas. However, the implementation of these projects was left open-ended, allowing for creative freedom in their development, meaning that the projects below are my own ideas and implementations.
+We were instructed to cover a wide range of topics in AI, encompassing approximately 50 different areas. However, the implementation of these projects was left open-ended, allowing for creative freedom in their development, meaning that *the projects below are my own ideas and implementations.*
 
 ## Projects
 
